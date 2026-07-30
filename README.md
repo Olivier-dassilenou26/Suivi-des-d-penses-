@@ -1,6 +1,9 @@
 <p align="center">
   <img src="images/banner.png" alt="Budget Monitoring Dashboard Banner" width="100%">
 </p>
+<p align="center">
+  <img src="images/banner.png" alt="Budget Monitoring Dashboard Banner" width="100%">
+</p>
 
 # 📊 Excel Expense Monitoring Dashboard | Tableau de Bord de Suivi des Dépenses
 # 📊 Excel Expense Monitoring Dashboard | Tableau de Bord de Suivi des Dépenses
