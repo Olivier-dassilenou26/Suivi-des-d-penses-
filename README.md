@@ -369,30 +369,32 @@ Cliquez sur le fichier
 
 <a id="repository-structure"></a>
 
+
 ## Structure du dépôt
 
 ```text
 budget-monitoring-dashboard-excel/
 │
 ├── README.md
-│
+├── LICENSE
 ├── 1- Tableau de Suivi mensuel des dépenses.xlsx
 │
 ├── images/
+│   ├── README.md
 │   ├── banner.png
-│   ├── dashboard-overview.png
 │   ├── budget-vs-actual.png
+│   ├── dashboard-overview.png
+│   ├── expense-data-table.png
 │   ├── monthly-expenses.png
-│   └── expense-data-table.png
+│   └── dashboard-demo.gif
 │
 ├── data/
-│   └── sample-data.xlsx
+│   ├── README.md
+│   └── sample-expenses.xlsx
 │
-├── docs/
-│   └── user-guide.pdf
-│
-└── LICENSE
-```
+└── docs/
+    ├── README.md
+    └── user-guide.pdf
 
 ---
 
