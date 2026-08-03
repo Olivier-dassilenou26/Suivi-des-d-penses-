@@ -394,8 +394,6 @@ budget-monitoring-dashboard-excel/
 └── LICENSE
 ```
 
-> Les dossiers `data`, `docs` et le fichier `LICENSE` pourront être ajoutés lors des prochaines évolutions du dépôt.
-
 ---
 
 ## Confidentialité des données
