@@ -160,6 +160,17 @@ Taux d’exécution = Dépenses réelles / Budget × 100
 
 ---
 
+## Ressources du projet
+
+| Ressource | Description |
+|---|---|
+| [Classeur Excel principal](./budget-monitoring-dashboard.xlsx) | Tableau de bord complet |
+| [Données d’exemple](./data/sample-expenses.xlsx) | Données simulées utilisées pour la démonstration |
+| [Guide utilisateur](./docs/user-guide.pdf) | Instructions d’utilisation du tableau de bord |
+| [Licence](./LICENSE) | Conditions d’utilisation du projet |
+
+---
+
 <a id="dashboard-preview"></a>
 
 ## Aperçu du tableau de bord
