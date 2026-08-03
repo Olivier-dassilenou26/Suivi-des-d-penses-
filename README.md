@@ -212,6 +212,18 @@ La table structurée constitue la base du projet. Les informations enregistrées
 
 ---
 
+## Démonstration du tableau de bord
+
+<p align="center">
+  <img src="images/dashboard-demo.gif"
+       alt="Démonstration animée du tableau de bord Excel"
+       width="90%">
+</p>
+
+Cette démonstration présente la navigation dans le tableau de bord, le suivi des dépenses et l’évolution des indicateurs budgétaires.
+
+---
+
 ## Méthodologie
 
 ### 1. Collecte et saisie
